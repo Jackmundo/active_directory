@@ -6,6 +6,8 @@ You can potentially deploy this via AWS or Azure, but you will need to be carefu
 
 I'll try my best to update the repository with tools & various other things to add to your environment. I may drop an AutoPilot guide in the Github too.
 
+I've also added some other tutorials/guides here for further learning :)
+
 Enjoy!
 
 Jack
